@@ -1,0 +1,14 @@
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow.deps.json
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow.runtimeconfig.json
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow.dll
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow.pdb
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.AssemblyInfoInputs.cache
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.AssemblyInfo.cs
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.csproj.CoreCompileInputs.cache
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.dll
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/refint/OperatorsAndControlFlow.dll
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.pdb
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.genruntimeconfig.cache
+/Users/sujan/Desktop/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/ref/OperatorsAndControlFlow.dll
